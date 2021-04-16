@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things software engineer and coding!
 - 🌱 I’m currently learning and implementing React and Node.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me by email at kjd275@gmail.com
 
 <!---
 kd1726/kd1726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
