@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- 👀 I’m interested in all things software engineer and coding!
+- 👀 I’m interested in all things software engineering and coding!
 - 🌱 I’m currently learning and implementing React and Node.
 - 💞️ I’m currently looking for junior software engineering opportunities. 
 - 📫 You can reach me by email at kjd275@gmail.com
