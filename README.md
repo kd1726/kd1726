@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I’m interested in all things software engineering and coding! I am also a huge fan of anime!
 - 🌱 I’m currently learning and implementing React and Node.
-- 💞️ I’m currently looking for junior software engineering opportunities. 
+<!--- 💞️ I’m currently looking for junior software engineering opportunities. -->
 - 📫 You can reach me by email at kjd275@gmail.com
 
 <!---
