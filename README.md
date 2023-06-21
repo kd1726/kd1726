@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I’m interested in all things software engineering and coding! I am also a huge fan of anime!
-- 🌱 I’m currently learning and implementing React and Node.
 - Currently a Software Engineer at Teladoc Health
 - 📫 You can reach me by email at kjd275@gmail.com
 
