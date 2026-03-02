@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I’m interested in all things software engineering and coding! I am also a huge fan of anime!
-- Currently a Software Engineer at Teladoc Health. I'm open to new roles.
 - 📫 You can reach me by email at kjd275@gmail.com
 
 <!---
